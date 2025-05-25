@@ -12,5 +12,8 @@
             "email": "202310011@fit.edu.ph"
         }
     ],
+    "scripts": {
+        "start": "php -S localhost:8000 router.php"
+    },
     "require": {}
 }
