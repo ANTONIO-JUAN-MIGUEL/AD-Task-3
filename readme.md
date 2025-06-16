@@ -103,7 +103,7 @@ A boxing tutorial website built with PHP that teaches fundamental punches (jab, 
 10. File Structure to follow below.
 
 ```
-AD-Task-2/
+AD-Task-3/
 ├── assets/
 │   ├── css/
 │   │   └── style.css (Main styles)
